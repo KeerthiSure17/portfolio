@@ -12,7 +12,7 @@ const About = () => {
   const backEndSkills = ["Python", "Node.js", "Java"];
   return (
     <section
-      id="about"
+      id="#about"
       className="min-h-screen items-center justify-center py-20"
     >
       <RevealOnScroll>
